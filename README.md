@@ -102,3 +102,4 @@ On the 'Edit' tab you can add commands to build your format, and on the 'API' ta
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oi8993afcuze7t4s009h.png)
 
 You can get the code from the `print()` method.
+# getz-print
